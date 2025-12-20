@@ -17,21 +17,24 @@ High-level HR insights:
 - Age & Salary correlation
 - 4 slicers with toggle panel
 
-![Overview](assets/overview.png)
+![Overview](assets/Overview.PNG)
 
 ### 2️⃣ Employee List View
 Detailed employee-level matrix:
 - Columns: Employee ID, Name, Gender, Age, Education, Department, Job Title, City, State, Salary, Status, Tenure
 - Full slicer panel for filtering (toggleable)
 
-![List View](assets/list_view.png)
+![List View](assets/List_View.PNG)
 
 ---
 
 ## 🎥 Dashboard Walkthrough (Video)
 Interactive walkthrough of all features and pages:
 
-📽️ **[Watch the dashboard walkthrough](video/hr_dashboard_walkthrough.mp4)**
+
+
+https://github.com/user-attachments/assets/44762ab0-c209-43a9-963b-b8b2f547068f
+
 
 ---
 
@@ -58,3 +61,8 @@ Interactive walkthrough of all features and pages:
 ## 📌 Notes
 - Data is for demonstration purposes  
 - Dashboard emphasizes clarity, interactivity, and usability
+
+## 🙌 Credits
+This project was fully implemented by me (**Muhammad Zubair**) as part of my portfolio work.
+
+Special credit goes to **Baraa Khatib Salkini**, also known as **Data With Baraa**, who designed the original project concept and made it freely available.
