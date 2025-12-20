@@ -15,7 +15,7 @@ High-level HR insights:
 - Education & Performance heatmap
 - Education vs Gender comparison
 - Age & Salary correlation
-- 4 slicers with toggle panel
+- 4 slicers with toggle/on-off button.
 
 ![Overview](assets/Overview.PNG)
 
