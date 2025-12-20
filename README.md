@@ -47,7 +47,7 @@ https://github.com/user-attachments/assets/44762ab0-c209-43a9-963b-b8b2f547068f
 ---
 
 ## 📁 Project File
-- Power BI file: `HR_Dashboard.pbix`
+- Power BI file: `Human_Resources_Dashboard.pbix`
 
 ---
 
